@@ -1,3 +1,3 @@
 Compile the Obot.cc code and run the executable. You are good to go.
 The computer plays as the 'O' and you as a dark piece with ? in between..
-Alternate moves are done by the bot and the player, with the bot playing first.
+Alternate moves are done by the bot and the player, with the user playing first.
