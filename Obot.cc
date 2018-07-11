@@ -1,7 +1,6 @@
 #include<iostream>
 #include<time.h>
 #include<stdlib.h>
-#include <linux/unistd.h>
 using namespace std;
 
 void sleep(unsigned int mseconds)
