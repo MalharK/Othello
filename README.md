@@ -15,4 +15,11 @@ Check the [**rules**](https://en.wikipedia.org/wiki/Reversi#Rules) of the game o
 3. Bot is not smart enough to detect stray keyboard alphabet keypress :(
 4. Keep terminal wide enough for the board ;)
 
-Enjoy!
+Attached below is a sample screenshot
+
+<p align="center">
+  <img src="https://cdn.rawgit.com/MalharK/Othello/53afa89d/gameplay.png" height="500px">
+  <br><br>
+  <b>Enjoy</b>
+  <br>
+</p>
